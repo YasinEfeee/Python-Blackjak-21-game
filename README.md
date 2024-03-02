@@ -1,5 +1,5 @@
 # Python-Blackjak-21-game
-This project is a simple Blackjack game for begginer written in Pyhton. Thanks for your interest :)
+This project is a simple Blackjack game for beginners written in Pyhton. Thanks for your interest :)
 
 I'm still developing my code, and as noted, an Ace is only equal to 11. Please reach out if you encounter any bugs and help me improve the code and myself.
 
