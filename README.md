@@ -19,6 +19,6 @@ Ace: It can have a value of 1 or 11.
 
 #### !Note: In Blackjack, the Ace can typically have a value of 1 or 11. However, in this code, the Ace is assigned a fixed value of 11. Therefore, be mindful that having two Aces could result in a total of 22, exceeding the limit of 21.
 
-## Here is Basic blackjack game diagram
+## Here is Basic Blackjack diagram
 
 ![Blackjack_diagram](https://github.com/YasinEfeee/Python-Blackjak-21-game/assets/87756643/5529a1b4-4a96-4a8e-86d0-b71285ac2fcb)
